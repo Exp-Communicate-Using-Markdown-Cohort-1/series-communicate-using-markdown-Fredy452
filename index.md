@@ -14,3 +14,8 @@ $ git add .
 $ git commit -m"Our first commit"
 ```
         
+### How we can add a task list 
+#### To add a task list is ` - [ ] ` that is - [ ] and to check the list `- [x]` - [x]
+- [ ] Turn on HitHub Pages
+- [ ] Outline my portafolio
+- [ ] Introduce myself to the world
